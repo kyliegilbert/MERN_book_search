@@ -1,7 +1,7 @@
 # Mern Book Search
 
 ## Description 
-A book search app that uses Mongodb, Express, React and NodeJS
+A book search app that uses Mongodb, Express, React and NodeJS.
 
 ## Table of Contents
 * [Description](#description)
